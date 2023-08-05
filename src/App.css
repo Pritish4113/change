@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.colorbtn{
+  cursor: pointer;
+  width: 34px;
+  height: 20px;
+}
+
+#red{
+  background-color: #d91f1f;
+  border-radius: 50%;
+}
+#green{
+  background-color: #53cf10;
+  border-radius: 50%;
+}
+#blue{
+  background-color: #0b1ae7;
+  border-radius: 50%;
+}
+#yellow{
+  background-color: #f5ed0a;
+  border-radius: 50%;
+}
